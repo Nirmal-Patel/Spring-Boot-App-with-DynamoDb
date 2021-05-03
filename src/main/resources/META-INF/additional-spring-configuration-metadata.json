@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "amazon.aws.secretkey",
+      "type": "java.lang.String",
+      "description": "Description for amazon.aws.secretkey."
+  }
+] }
